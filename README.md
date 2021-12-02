@@ -15,14 +15,14 @@ down the need of processing the clip duration to just 10% of the
 global average.
 
 ## Citation
-@inproceedings{parikh2020improving,
-  title={Improving the efficiency of spectral features extraction by structuring the audio files},
-  author={Parikh, Dishant and Sachdev, Saurabh},
-  booktitle={2020 IEEE-HYDCON},
-  pages={1--5},
-  year={2020},
-  organization={IEEE}
-}
+>@inproceedings{parikh2020improving,  
+>  title={Improving the efficiency of spectral features extraction by structuring the audio files},  
+>  author={Parikh, Dishant and Sachdev, Saurabh},  
+>  booktitle={2020 IEEE-HYDCON},  
+>  pages={1--5},  
+>  year={2020},  
+>  organization={IEEE}  
+>}  
 
 ## Author
 Dishant Parikh
